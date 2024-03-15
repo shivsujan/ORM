@@ -47,7 +47,7 @@ class BookAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![alt text](<WEB APP.png>)
+![web application 2](https://github.com/shivsujan/ORM/assets/145633245/f310108f-1d8e-45e4-b1b6-e2af116b208d)
 
 
 
